@@ -1,4 +1,4 @@
-# API "GITHUB SIMPLES"
+# API - GITHUB SIMPLES
 
 Esta é uma API simples que simula o GitHub, permitindo operações básicas (CRUD) em repositórios e a capacidade de "curtir" esses repositórios. Utiliza JavaScript, Express e Jest como principais dependências.
 
